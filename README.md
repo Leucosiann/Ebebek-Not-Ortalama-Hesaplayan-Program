@@ -1,0 +1,1 @@
+# Ebebek-Not-Ortalama-Hesaplayan-Program
